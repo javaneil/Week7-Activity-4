@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="robogen:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="robogen.war">
+      <element id="artifact" artifact-name="robogen:war exploded" />
+    </root>
+  </artifact>
+</component>
